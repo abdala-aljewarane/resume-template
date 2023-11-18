@@ -1,15 +1,15 @@
 # Jobs
-# VP of Global Communications
+# 
 - company: Apple Inc.
   position: Information Security Intern
   duration: June, 2023 &mdash; Sept, 2023
   summary: 	<ul class="resume-item-list"><li>Assist in conducting vulnerability assesments and penetration testing to identify potential security risks and weaknesses in systems and networks, contributing to an 11 percent reduction in vulnerablities</li><li>Collobrate with the IT team to ensure that security measures are effectively integrates into the system architecture</li></ul>
 
 # Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: theCoderSchool
+  position: Code Coach
+  duration:  Dec, 2022 &mdash; Sept, 2023
+  summary: <ul class="resume-item-list"><li>Developed and implemented a comprehensive coding curriculum in Python, C++, JS etc. for over 100+ students of various skill levels</li><li>Fostered a positive and inclusive classroom environment that promoted collaboration, creativity, and critical thinking among groups of 4+ students at a time.</ul>
 
 
 # Communications Coordinator
